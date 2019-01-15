@@ -3,6 +3,4 @@ title: About
 permalink: /about/
 ---
 
-<p class="lead"><a href="http://github.com/gfjaru/Kiko">Kiko</a> is a theme for <a href="http://jekyllrb.com">Jekyll</a>, the static site generator.</p>
-
-Kiko is simple, lightweight theme. It's designed and developed by [@gfjaru](https://twitter.com/gfjaru).
+블록체인의 개념부터, 이더리움을 활용해서 간단한 dapp을 제작할 수 있는 튜토리얼입니다.
