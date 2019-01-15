@@ -131,7 +131,7 @@ b)\,P( X > 1/4)
 =1-F_X(1/4)=1-3/4=1/4
 </script>
 
-$$c\)\,P(X>0)$$
+$$c)\,P(X>0)$$
 
 <script type="math/tex; mode=display">
 =1-F_X(0)=1-1/2=1/2

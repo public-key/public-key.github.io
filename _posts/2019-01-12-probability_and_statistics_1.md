@@ -9,6 +9,8 @@ thumbnailImage:
 coverImage: 
 ---
 
+이상화 교수님의 확률과 통계를 듣고 정리한 글입니다.
+
 ### Sample Space
 
 $$S ( s e t )$$
@@ -127,18 +129,9 @@ $$P_{21}=P(y_1|x_2)$$
 
 $$P_{22}=P(y_2|x_2)$$
 
-**P(error)**
+**P(err)**
 
 P12와 P21가 일어날 확률. P(12)+P(21)
 
 $$P(y_2|x_1)P(x_1)+P(y_1|x_2)P(x_2)$$
 
-**When y2 Received**
-
-**P(x1|error)**
-
-input: x1
-
-$$P(y_2|x_1)P(x_1)$$
-
-$$P()$$
